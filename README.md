@@ -1,2 +1,2 @@
 # Ticket_Orbit_Express
-Ticket slea for trips to Southern Brasil 
+Ticket sale for trips to Southern Brasil 
